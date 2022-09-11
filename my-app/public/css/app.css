@@ -10857,3 +10857,21 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+#app {
+  overflow: hidden;
+  background-color: #0d88f0;
+}
+
+.login-container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-container form {
+  background-color: #fff;
+  width: 60%;
+  padding: 3rem;
+  border-radius: 1rem;
+}
